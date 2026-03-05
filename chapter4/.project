@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Mastery/LetterGradeScreenD.jpg</name>
+			<type>1</type>
+			<location>C:/Users/48329002/Pictures/Screenshots/LetterGradeScreenD.jpg</location>
+		</link>
+	</linkedResources>
 </projectDescription>

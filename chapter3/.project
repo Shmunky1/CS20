@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Mastery/SleepAppScreenD.jpg</name>
+			<type>1</type>
+			<location>C:/Users/48329002/Pictures/Screenshots/SleepAppScreenD.jpg</location>
+		</link>
+	</linkedResources>
 </projectDescription>
